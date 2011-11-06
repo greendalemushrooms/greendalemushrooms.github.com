@@ -1,0 +1,63 @@
+/*
+ * Color pallette from http://kuler.adobe.com/#create/fromacolor
+ * Analogous: #05E81A #07F5A4 #07FF64 #41FF07 #92F507
+ * Triad:     #05E81A #139B20 #551DEC #B56316 #9B510B
+ */
+body {background:#f6f6f;}
+h1 {color: #139B20; font-weight:400;font-family: "Crimson Text", "Georgia", serif}
+h2 {color: #B56316;}
+h3 {color: #9B510B;}
+#main {
+  padding: 5%;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+#main .right {
+  float: right;
+  margin-left: 20px;
+}
+.caption {
+  text-align: center;
+}
+
+/* Hide from both screenreaders and browsers: h5bp.com/u */
+.hidden { display: none !important; visibility: hidden; }
+
+/*
+ * 1. Improve image quality when scaled in IE7: h5bp.com/d
+ * 2. Remove the gap between images and borders on image containers: h5bp.com/e 
+ */
+
+img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: middle; }
+
+hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
+
+q { quotes: none; }
+q:before, q:after { content: ""; content: none; }
+
+small { font-size: 85%; }
+
+b, strong { font-weight: bold; }
+
+a { color: #00e; }
+a:visited { color: #551a8b; }
+a:hover { color: #06e; }
+a:focus { outline: thin dotted; }
+
+/* Improve readability when focused and hovered in all browsers: h5bp.com/h */
+a:hover, a:active { outline: 0; }
+
+::-moz-selection { background: #05E81A; color: #fff; text-shadow: none; }
+::selection { background: #05E81A; color: #fff; text-shadow: none; }
+
+/*
+ * 1. Correct text resizing oddly in IE6/7 when body font-size is set using em units
+ * 2. Force vertical scrollbar in non-IE
+ * 3. Prevent iOS text size adjust on device orientation change, without disabling user zoom: h5bp.com/g
+ */
+
+html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+
+body { margin: 0; font-size: 13px; line-height: 1.231; }
+
+body, button, input, select, textarea { font-family: sans-serif; color: #222; }
