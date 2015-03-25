@@ -1,0 +1,43 @@
+Greendale Mushrooms
+===================
+
+Overview
+--------
+
+<div class="right info" id="picture-frame">
+![Kate, Geoff and fresh mushrooms destined for
+market.](images/kate-geoff-boxes.jpg)
+
+Kate, Geoff and fresh mushrooms\
+ destined for market.
+</div>
+
+Greendale Mushrooms is an established, rapidly growing mushroom farm set
+right of the heart of Canterbury, New Zealand. Located on the wide flat
+plains between the Southern Alps and the ocean, only half an hour from
+Christchurch city.
+
+Owned and run by Geoff and Kate Clark, who bought the 10 year old
+mushroom farm in 2007. After extensive restructuring, some injection of
+funds, and countless hours of hard work, they have increased the
+production to 3 tonnes a week of white button mushrooms.
+
+The whole process involved in the production of mushrooms is
+eco-friendly, and is one of the most renewable businesses you could
+find.
+
+The mushrooms are housed in a complex of insulated growing rooms with
+regulated environments, growing in beds of compost made from the
+by-products of other industries. Summed up by Geoff "our whole operation
+uses the waste products of wheat straw and chicken litter to make
+compost. Then we grow mushrooms in it, and sell the finished compost to
+gardeners". Indeed, after weeks of tightly controlled processes they
+develop compost which is perfect to grow fruitful crops of mushrooms,
+after this use the compost is sold to private gardeners and landscaping
+companies.
+
+With the help of a team of local staff the mushrooms are picked, graded
+and packed in boxes everyday and trucked fresh from the property to
+nearby MG Produce market in Christchurch. From there the mushrooms are
+distributed to retailers, wholesalers and supermarkets mainly in the
+local Canterbury region.
