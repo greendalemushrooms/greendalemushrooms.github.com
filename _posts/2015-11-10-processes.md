@@ -1,3 +1,8 @@
+---
+title:  "Processes"
+categories: jekyll update
+---
+
 More about our processes
 ------------------------
 
@@ -22,8 +27,19 @@ consistently harvest between 2.5 and 3 tonnes per week all year round.
 [![View of the compost preparation area with straw bales waiting to be
 mulched.](images/outside.320.jpg)](images/outside.DA1642.jpg)
 
+
+<div class="caption">
+View of the compost preparation area with<br/>
+straw bales waiting to be mulched.
+</div>
+
 [![A few boxes of mushrooms in a growing room ready to be
-harvested.](images/grow_room.800.jpg)](images/grow_room.UNI_0140.jpg)
+harvested.](images/grow_room.380.jpg)](images/grow_room.UNI_0140.jpg)
+
+<div class="caption">
+A few boxes of mushrooms in a growing room<br/>
+ready to be harvested.
+</div>
 </div>
 
 We make all our own compost--some 12 tonne per week; mixing up the wheat straw
